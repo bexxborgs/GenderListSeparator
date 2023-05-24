@@ -1,4 +1,4 @@
-#Separador de genero
+Separador de genero
 
 Permite aos usuários separar uma lista de nomes com base no sexo (masculino ou feminino). 
 A aplicação solicita aos usuários que insiram os nomes e seus respectivos sexos (representados por "M" para masculino e "F" para feminino). Em seguida, o projeto separa os nomes em duas listas distintas: uma para nomes masculinos e outra para nomes femininos.
